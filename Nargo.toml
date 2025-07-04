@@ -1,0 +1,6 @@
+[package]
+name = "firstCircuitProject"
+type = "bin"
+authors = ["Barba"]
+
+[dependencies]
